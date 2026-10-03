@@ -1,4 +1,4 @@
-# Hi there, I'm <YOUR_NAME> 👋
+# Hi there, I'm <Kavindu Perera> 👋
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on building modern software applications and sharpening my development skills.
